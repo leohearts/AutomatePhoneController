@@ -1,6 +1,6 @@
 # AutomatePhoneController
 
-An [Automate](https://llamalab.com/automate/) flow. 
+An [Automate](https://llamalab.com/automate/) flow. Use Telegram bot to send sms, make phone calls, etc.
 
 No root needed.
 
