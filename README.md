@@ -25,7 +25,7 @@ Click on "Edit" (right buttom floating button), **Edit Telegram bot token and wh
 
 Go to Automate settings, check "Run on system startup", also set SMS/call rate limit if you need.
 
-Use with https://github.com/pppscn/SmsForwarder
+Use it with https://github.com/pppscn/SmsForwarder to also get notified on incoming SMSs and calls. You can use the same userid and bot token on both softwares :3
 
 Setup command list with:
 
