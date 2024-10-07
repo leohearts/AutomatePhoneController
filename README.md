@@ -19,11 +19,9 @@ Buy and install [Automate](https://llamalab.com/automate/) to your phone
 
 Install https://llamalab.com/automate/community/flows/46295 in Automate
 
-Click on "Edit" (right buttom floating button), Set Telegram bot token and whitelist
+Click on "Edit" (right buttom floating button), **Edit Telegram bot token and whitelist**
 
 Go to Automate settings, check "Run on system startup", also set SMS/call rate limit if you need.
-
-INFO: Remember to change your botToken first!
 
 Use with https://github.com/pppscn/SmsForwarder
 
