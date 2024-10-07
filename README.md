@@ -21,7 +21,7 @@ Install https://llamalab.com/automate/community/flows/46295 in Automate
 
 Click on "Edit" (right buttom floating button), **Edit Telegram bot token and whitelist**
 
-> If you don't know your Telegram user id for whitelist, check [UserID BOt](https://t.me/chatIDrobot)
+> If you don't know your Telegram user id for whitelist, check [UserID Bot](https://t.me/chatIDrobot)
 
 Go to Automate settings, check "Run on system startup", also set SMS/call rate limit if you need.
 
