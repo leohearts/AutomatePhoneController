@@ -37,5 +37,4 @@ curl https://api.telegram.org/botYOURTOKEN -H 'Content-type: application/json' -
 
 ![image](https://github.com/leohearts/AutomatePhoneController/assets/24632029/fa431aa7-da22-43cf-a325-a7ea1af873d6)
 
-
-![Control phone with Telegram](https://github.com/leohearts/AutomatePhoneController/assets/24632029/74bd4233-92de-4d67-a3f7-3bd3f3cc1e21)
+![Control phone with Telegram](https://github.com/user-attachments/assets/0759e3c7-59b0-4dfd-89df-f9f454df37ef)
